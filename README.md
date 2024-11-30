@@ -32,7 +32,7 @@ A curated list of the top YouTube channels to master C programming. Check them o
 
 Use this checklist to track your progress as you explore the channels:
 
-- [ ] **FreeCodeCamp.org**
+- [@] **FreeCodeCamp.org**
 - [ ] **CodeVault**
 - [ ] **The Cherno**
 - [ ] **Jacob Sorber**
