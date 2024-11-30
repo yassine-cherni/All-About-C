@@ -10,7 +10,7 @@ Explore and master **C programming** using this curated list of 30 YouTube chann
   *Comprehensive tutorials with practical examples.*  
   [Recommended Playlist](https://www.youtube.com/watch?v=KJgsSFOSQv0)  
 
-- [ ] [**Code With Harry**](https://www.youtube.com/@CodeWithHarry)  
+- [x] [**Code With Harry**](https://www.youtube.com/@CodeWithHarry)  
   *Structured, beginner-friendly lessons.*  
   [Recommended Playlist](https://www.youtube.com/@CodeWithHarry)  
 
@@ -141,7 +141,7 @@ Explore and master **C programming** using this curated list of 30 YouTube chann
 #### Beginner Level 🎓
 - [x] FreeCodeCamp.org
 - [ ] Code With Harry
-- [ ] ProgrammingKnowledge
+- [x] ProgrammingKnowledge
 - [ ] Telusko
 - [ ] Edureka
 - [ ] Geeky Shows
