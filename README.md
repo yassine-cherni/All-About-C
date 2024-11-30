@@ -60,7 +60,7 @@ A curated list of 30 YouTube channels to master C programming, organized from be
 Use this checklist to track your progress as you explore the channels:
 
 ### Beginner Level 🎯
-- [ ] **FreeCodeCamp.org**
+- [x] **FreeCodeCamp.org**
 - [ ] **Code With Harry**
 - [ ] **Telusko**
 - [ ] **ProgrammingKnowledge**
